@@ -1,0 +1,5 @@
+build/
+computer_vision/*.png
+computer_vision/*.jpg
+computer_vision/*.bmp
+.vscode/
